@@ -28,5 +28,5 @@ yarn && cd ios && pod install
 ### iOS
 
 <div align="center">
-<video src='./docs/videos/flow.MP4' width="300" />
+<img src='./docs/gifs/flow.gif' width="300" />
 </div>
