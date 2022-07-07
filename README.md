@@ -27,6 +27,9 @@ yarn && cd ios && pod install
 
 ### iOS
 
+
 <div align="center">
 <img src='./docs/gifs/flow.gif' width="300" />
 </div>
+
+💡 Due to the size of the GIF, you might have to wait a bit until it's loaded & shown.
